@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.exe
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.deps.json
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.runtimeconfig.json
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\bin\Debug\net5.0\TPFinal_AdrianTournour.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\refint\TPFinal_AdrianTournour.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\TPFinal_AdrianTournour.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 1\TPFinal_AdrianTournour\obj\Debug\net5.0\ref\TPFinal_AdrianTournour.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TPFinal_AdrianTournour/1.0.0": {
+        "runtime": {
+          "TPFinal_AdrianTournour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPFinal_AdrianTournour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
